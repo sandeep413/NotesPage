@@ -1,1 +1,7 @@
 @import "tailwindcss";
+#titleHeader::-webkit-scrollbar{
+    display: none;
+}
+#paraHeader::-webkit-scrollbar{
+    display: none;
+}
